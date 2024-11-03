@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Linux Desktop Software Eco Building
 - 🤔 I’m looking for help with desktop developing.
 - 💬 Ask me about anything
-- 📫 How to reach me: User group of Spark Store or GXDE OS
-- ⚡ Fun fact: I recommend everyone to try Meizu/Flyme OS if they didn't heard of it.
+- 📫 How to reach me: User group for Spark Store or GXDE OS
+- ⚡ Fun fact: I recommend everyone to try Meizu/Flyme OS if they hadn't heard of it.
 
