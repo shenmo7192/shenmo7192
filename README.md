@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I recommend everyone to try Meizu/Flyme OS if they hadn't heard of it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenmo7192)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/carterli">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true" />
-    <img alt="Star History Chart" src="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true" />
-  </picture>
-</a>
+
+![shenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true&theme=tokyonight)
+
