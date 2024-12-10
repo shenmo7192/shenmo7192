@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+![shenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true&theme=tokyonight)
+
 
 
 - 🔭 I’m currently working on [Spark APP Store](https://github.com/spark-store-project/) and [GXDE OS](https://github.com/GXDE-OS/)
@@ -16,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I recommend everyone to try Meizu/Flyme OS if they hadn't heard of it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenmo7192)](https://github.com/anuraghazra/github-readme-stats)
-
-![shenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true&theme=tokyonight)
 
