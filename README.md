@@ -5,6 +5,14 @@
 
 Here are some ideas to get you started:
 -->
+<a href="https://github.com/carterli">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true" />
+    <img alt="Star History Chart" src="https://github-readme-stats.vercel.app/api?username=shenmo7192&show_icons=true" />
+  </picture>
+</a>
+
 - 🔭 I’m currently working on [Spark APP Store](https://github.com/spark-store-project/) and [GXDE OS](https://github.com/GXDE-OS/)
 - 🌱 I’m currently learning coding. 
 - 👯 I’m looking to collaborate on Linux Desktop Software Eco Building
